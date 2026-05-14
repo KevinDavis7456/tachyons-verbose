@@ -37,3 +37,4 @@ Notes and usage details for tachyons-verbose.
 - fix a small wording issue
 - link the usage section
 - clarify the setup steps
+- link the usage section
